@@ -43,4 +43,3 @@ I enjoy turning ideas into visually appealing and user-friendly interfaces using
 ---
 
 > 💬 *“Feel free to check out my projects below and connect with me!”*
-1- nebras-dashboard.vercel.app
